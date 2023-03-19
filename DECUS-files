@@ -1,0 +1,944 @@
+
+http://bitsavers.informatik.uni-stuttgart.de/bits/DEC/pdp8/decus_pdp8_index.txt?fbclid=IwAR2rhoIhn6FbUgLUNxX1noeNUz6mvaIEOhtW7-Q8yEUYuY1__Wop4u7--E4
+
+
+5/8-1.1a    BPAK - A Binary Input/Output Package for the PDP-5
+5/8-2.1a    OPAK - An On-Line Debugging Package
+5-4         Octal Typeout of Memory Area with Format Option
+5-5         Expanded Adding Machine
+5/8-7       Decimal to Binary Conversion by Radix
+5/8-9       Analysis of Variance - PDP-5/8
+5-10        Paper Tape Reader Tester
+5/8-14      Dice Game for the PDP-5/8
+5/8-15      ATEPO (Auto Test in Elementary Programming and Operation of a PDP-5 Computer)
+5/8-18A     BIN Tape Disassembly Program for PDP-5/8
+5/8-18C     Disassembler with Symbol
+8-19a       DDT-UP Octal-Symbolic Debugging Program
+5/8-20      Remote Operated FORTRAN System
+5/8-21      Triple Precision Arithmetic Package
+5/8-23A     PDP-5/8 Oscilloscope Symbol Generator (4x6 Matrix)
+5/8-23B     PDP-5/8 Oscilloscope Symbol Generator (5x7 Matrix)
+5-25        A Pseudo Random Number Generator for the PDP-5 Computer
+8-26A       Compressed Binary Loader
+8-26B.1     BN2CBL and CBL2BN BIN to CBL Format Tape Converter
+8-26C       Extended Compressed Binary Loader
+8-26D       XCBL Punch Program
+5/8-27      Bootstrap Loader and Absolute Memory Clear
+5/8-27a     Bootstrap Loader and Absolute Memory Clear
+5/8-28a     Phoenix Assembler D PAL III Modification
+5-30        GENPLOT - General Plotting Subroutine
+5-31a       FORPLOT
+5/8-32a     A Program to Relocate and Pack Programs in Binary Forma
+5/8-33      Tape to Memory Comparator
+5/8-35      BCD to Binary Conversion Subroutine and Binary to BCD Conversion Subroutine (Double Precision)
+5D37        Transfer II
+5/8-38      FType - Fractional Type
+5/8-39      DSdprint, DDtype - Double Precision Signed Decimal Input - Output
+5-41        Break Point
+5/8-43      Unsigned Octal - Decimal Fraction Conversion
+8-44        Modifications to the Fixed Point Output in the PDP-8 Floating Point Package (Digital 8D5DS)
+5/8-45      PDP-5/8 Remote and Time Shared II System
+8-46b       The Utility Program
+8-47        ALBIN - a PDP-8 Loader for Relocatable Binary Programs
+5/8-48      Modified Binary Loader MK IV
+8-49        Relativistic Dynamic
+5/8-51      Character Packing and Unpacking Routine
+8-52        Tiny Tape Editor
+5/8-54      TIC-TAC-TOE Learning Program - T3
+5/8-55      PALEX - An On-Line Debugging Program for PDP-5 and PDP-8 Computer
+8-56a       Fixed Point Trace No. 1
+8-57        Fixed Point Trace No. 2
+8-58        One-Page DECtape Routine
+8-60        Square Root Function by Subtraction Reduction (Uses EAE)
+8-61        Improvement to Digital 8-9-F Square Roo
+8-64a       4K and 8K DECtape Programming System
+8-65        A Programmed Associative Multichannel Analyser
+8-66        Editor Modified for DECtape (552 Control)
+8-67        PAL Modified for DECtape Input (Uses EAE)
+8-68a       LABEL Program
+5/8-69      LESQ29 and LESQil
+8-70        EAE Routines for FORTRAN Operating System (DECD08DCFA3)
+8-71        Perpetual Calendar
+8-72        Matrix Inversion - Real Number
+8-73        Matrix Inversion - Complex Number
+8-74        Solution of System of Linear Equations: AX=B, by Inverting Matrix A, then Multiplying the Inverse by Vector B
+8-75        Matrix Multiplication - Including Conforming Rectangular Matrice
+8-77        PDP-8 Dual Process System
+8-78        DIAGNOSE: A Versatile Trace Routine for PDP-8 and EAE
+8-79        TIC-TAC-TOE (Trinity College)
+8-80        Determination of Real Eigenvalues of a Real Matrix
+8-81        A BIN or RIM Format Data or Program Tape Generator
+8-82        Library System for 580 Magnetic Tape (Preliminary Version)
+5/8-83 A&B  Octal Debugging Program (With or without Floating Point)
+8-84        One Pass PAL III
+8-85        Set Memory Equal to Anything
+8-87        XMAP
+8-89        XOD - Extended Octal Debugging Program
+8-90        Histogram on Teletype Subroutine
+8-91        MICRO-8: An On-Line Assembler
+8-92        Analysis of Pulse-Height Analyzer Test Data with a Small Computer
+8-93        CHEW - Convert Any BCD to Binary, Double Precision
+8-94A       BLACKJACK
+8-94B       BLACKJACK "Overlays"
+8-95        TRACE for EAE
+8-96        J Bessel Function (FORTRAN)
+8-97        GOOF
+8-98        3D Draw for 338 Display
+8-99A       Kaleidoscope
+8-99B       Kaleidoscope D 338 Display
+
+8-100       Double Precision BCD Arithmetic Package (Incomplte)
+8-102a      A LISP Interpreter for the PDP-8
+8-103A      Four Word Floating Point Routines - Functions Package
+8-103B      Four Word Floating Point Routines - Rudimentary Calculator
+8-103C      Four Word Floating Point Output Controller with Rounding
+8-103D      Additional Instructions for use with Four Word Floating Point Package
+8-104       Card Reader Subroutines for the PDP-8 FORTRAN Compiler
+8-105       D-BUG
+8-106       Readable Punch
+8-107       CHESSBOARD
+8-108       Increment Mode Compiler (INCMOD)
+8-109       SEETXT Subroutine
+8-110       Directory Print (DIREC) for the DEC PDP-8 Disk System
+8-111       DISKLOOK
+8-112       Sentence Generator
+8-114a      Decimal Output Routine for PDP-8 FORTRAN
+8-115a      Double Precision Interpretive Package
+8-117       A PDP-8 Interface for a Charged Particle Nuclear Physics Experiment
+8-118       General Linear Regression    
+8-119       Off-Line TIC-TAC-TOE Program for the PDP-8 Computer
+8-120       DISK/DECtape FAILSAFE
+8-121       DECtape Handler
+8-122A      SNAP (Simplified Numerical Analysis) Without EAE
+8-122B      SNAP (Simplified Numerical Analysis) With EAE
+8-123       UNIDEC Assembler
+8-124a      PDP-8 Assembler for IBM 360/SO and above
+8-125       PDP-8 Relocatable Assembler for IBM 360/SO and above
+5/8-126     Cumulative Gaussian Distribution Curve Fitting       
+8-127       XDDT Extended Octal - Symbolic Debugging Program         
+8-128       PDP-8 Oscilloscope Display of Mathematical Functions     
+8-129       Magnetic Tape Program Library System
+8-130A      REBIL8 - Relocating Binary Loader
+8-130B      RELCON - Binary to Relocatable Binary Tape Converter
+8-131       SRCD, Software Rapid Character Display
+8-132       STRIP, A Data Display and Analysis Program for the PDP-8, 8/I
+8-133       First Order Kinetics
+8-134       LSO (Least Squares Subroutine)
+8-135       DNHELP, A Directory Assistor Program
+8-136       Fourier Transform Program
+8-137a      Programs for Storage, Manipulation and Calculation of Data Using DECtape      
+8-141       SYSLUK
+8-142       Binary Punch - Extended Memory
+8-143       FFTS-R - A Fast Fourier Transform Subroutine for Real Valued Functions
+8-144       FFTS-C - A Fast Fourier Transform Subroutine for Complex Data
+8-145       Time-of-Flight Analyzer
+8-146       High Speed Executive for the PDP-8, 8/I  
+8-147       Incremental Plotter Printout Subroutine
+8-148       Plotter System
+8-149       Core Window
+8-15O       PTOD8 High and PTOD8 Low
+8-151       On-Line TIC-TAC-TOE  
+8-152a      PDP-8 Music Programs
+8-153       Tape/Disk Transfer Programs
+8-154       SWAP
+8-155       HEP
+8-156       HEPTRACE
+8-157       Square Root Patch
+8-158       AXD08 Symbol Generator
+8-159       CINET BASIC
+8-160       FASTLOAD
+8-161       EXPO - A Flexible PDP-8 Data Acquisition Program     
+8-162       Demonstration Programs for the PDP-8
+8-166       Interim Technical Report, The PDPMAP Assembly System     
+8-167       CIRCUITS
+8-168       CalComp Plotting Package      
+8-169       Physical Oceanography Data Reduction Programs for the PDP-8
+8-169A      Temperature Formatting
+8-169B      Pack Thermometer Calibration
+8-169C      Thermometer Correction
+8-169D      Pressure Curve Fit
+8-169E      Final Pass
+8-169F      PNUM
+8-169G      PLOPRM
+8-169H      Distance and Bearing
+8-169I      Formatting of Chemistry
+8-169J      Department PLOTCO
+8-169K      Additions to Floating Point Package
+8-170       FORTRAN Source Conversion Program
+8-171       Real-Time System for Behavioral Science Experiments   
+8-172       Octal Systems Edit   
+5/8-173     TIC 5/8
+5/8-174     MEDIUM
+8-175       Post Stimulus Interval Histogram for AXD08   
+8-176       PAL CHOP
+8-177       COPY     
+8-178       Reverse Assembler
+8-179       EAE Modifications for Binary Disassembler with Symbols
+8-180       Editor and Assembler for 57A Magnetic Tape System (UCRLD50534)    
+8-181       Automatic Binary Loader and Duplicator- Coder for Auto Bin   
+8-182       Memory Compare
+8-183       The WANG Loader
+8-184       Page Routine
+8-185       Modifications to Symbolic Editor and Symbolic Tape Format Generator
+8-186       EAE FORTRAN Patch for the PDP-8
+8-187       Keyboard Controlled Binary Punch
+8-188       Extended Memory Patch for 4 Word Float- ing Point Package (DEC-08-FMHA-8B)
+8-189       LKDN: Look into the Directory Name Block
+8-190       PATCH Utility Program    
+8-191       Fields   
+8-192       T.A.L.C.: Taylor's Algebraic Linear Calculator
+8-193       DISP
+8-194       NMR Simulator
+8-195       POLY BASIC  
+8-196       DET - Detect Key Words
+8-197       Overlay for Standard Editor and PAL III Assembler
+8-198       SYSHLP - Monitor Systems Utility Program     
+8-199       Accessing Data Arrays and Teletype Text Input/Output      
+
+8-200A      BOSS
+8-200B      DECtape BOSS for PDP-8 Computers
+8-201       DECSW
+8-202       PLOT 
+8-203       ALPHA 
+8-204a      PATCH - A PDP-8 Binary Paper Tape Patch Program
+8-205       MTSAFE
+8-206       DUMP 
+8-207       Cube Root Subroutine
+8-208       Evaluating Determinants (from 2-17)
+8-209       EditorDWithDView
+8-210       A Real-Time Multiple Task Executive Program with Built-In Console Utility Package for PDP-8/S and PDP-8 Computers  
+8-211       Matrix Manipulation System (MMS) for Real Numbers
+8-212b      PALH (Modified)
+8-213       4K ALGOL
+8-214       DECI: A Subroutine to Type Outputs in Decimal
+8-215       Hexapawn
+8-216       PALDD Patch
+8-217A      PALR
+8-217B      PALM
+8-217C      UTIL
+8-218       Interpreter of Constitution of Coding Tables
+8-219       LISS
+8-220       FRACPT and TRANS
+8-221       IFIX/FLOAT   
+8-222       Disk Memory Retention Test
+8-223       Power Spectrum   
+8-224       PALT: Patch for Improved Text Handling for PAL-D
+8-225       CR8/I Overlay for PAL III Assembler
+8-226       FAILSAFE for DECtape Library System
+8-227       PDP-10/8 D Loader
+8-228       A One-Pass Paper Tape Loader for PDP-8 Disk System (OPLOAD)  
+8-229       Card III Overlay
+8-230       Foreground/Background/8 Now  
+8-231       Data Processing on the PDP-8/S   
+8-232       TPIO
+8-233       An Octal Housekeeping and Debugging Package for PDP-8(PDP-8/I) with EAE and Disk
+8-234       SYS/LOAD PUNCH
+8-235       Octal Tape Dump for PDP-8/9/10 DECtapes
+8-236       System and User Files Read and Punch Program (LEES)  
+8-237       MADCAP IV, A Multiplex ADC and Analog Plotting Program
+8-238       EPRSIM, An Electron Paramagnetic Resonance Simulator
+8-239       PAL III/Editor 8K Link Patch
+8-240       END
+8-241       BUZZTAPE READER/WRITER
+8-242       DATAC I 
+8-243       Amplitude Distribution
+8-244       BINSAVE
+8-245       Dynamic Octal Disk Debugger
+8-246       DF32 Disk Routines
+8-247       HELP: A Disk/DECtape Dialogue Program
+8-248       SABR - Coded Fast Fourier Transform Subroutine
+8-249       Oscilloscope Vector Generator
+8-250       Fast Fourier Transform (FFT)
+8-251       A System for Production of Problem Sets with Individualized Data
+8-252       PEEP- A Directory Search Program
+8-253       Disk Dump on Scope
+8-254       Vector Algebra Package
+8-255       SCED: Scope Editor for the AXO8
+8-256       Binary to RIM Format Converter
+8-257       UCONN-EAP, Editor-Assembler
+8-258       NMRCATD29: A Simplified Signal Averager Program 
+8-259       Symbolic from Pass 3
+8-260       TOFAST - Fast Direct and Inverse Discrete Fourier Transform Routines
+8-261       QUBIC
+8-262       Character Overflow Change to PDP-8 PAL 3
+8-263       XYPLOT - A Versatile Plot Routine for the D/A Converter  
+8-264       CLOK - AXO8 RC Clock or External Clock Frequency or Period Measurement
+8-265       Teletype Parity Conversion Program
+8-266       IBM Editor
+8-267       DARIC - Data Reduction in Columns
+8-268       Miniloader and Miniloader Punch
+8-269       Morse Code Trainer
+8-270a      Disk-DECtape Utility Program
+8-271       LIP, LOGICAL "If" Package
+8-272       IOPACK - A Message and Number 1-0 Utility Package    
+8-273       Algonquin Assembler
+8-274       Card Reader Patch to Phoenix Assembler
+8-275       Grade Compiler
+8-276       Core Editor
+5-277       ICBM
+8-278       Single Length Floating Point Package
+8-279       Bar Chart Plotting Subroutine    
+8-280       General Sorting Program
+8-281a      Binary Tape Splicer ASR 33/75A
+8-282       C528: Paper Tape Conversion 5 Track (SIRIUS) to 8 Track (A.S.C.I.I.)
+8-283       A.V.S.C. (Analysis of Variance, Single Classification)
+8-284       ASCO - Numerical Sort in Ascending Order 
+8-285       Teletype Input-Output Package
+8-286       Two Patches for Disassembler with Symbols 
+8-287       A PDP-8 Program to Provide Teletype Entry into the IBM JET System
+8-288       GRAYCONV (Gray Code to Binary Code Converter)    
+8-289       "ULKA" - The Ultimate Kaleidoscope
+8-290       Skinny BIN Loader
+8-291       Tape to Memory Comparator (6-channel)
+8-292       Fast Fourier Transform and Fast Walsh- Fourier Transform
+8-293       Atomic Coordinate Program
+8-294       Lettering Program
+8-295       COMBIN
+8-296       Edit Routine
+8-297       TRACE
+8-298       OCTMON - An Octal Monitor for the PDP-8 
+8-299       Latency Histogram and Calculation 
+
+8-300       Noise Generator 
+8-301       STOR: A Store Instruction for the PDP-8 Disk Monitor
+8-302       Overlay Modifications to the Floating- Point System Packages, DEC-08-YQYA    
+8-303       Alterations of the Basic Floating-Point Package and Additional Subroutines
+8-304       PseudoDNoise (PDN) Sequence Test
+8-305       PAL III Assembler Overlay for Card Reader Input
+8-306       LDR - A One Pass Transparent Loader
+8-308       PDP-8 Morse Code Sender
+8-309       Patches and a Utility Program for LAB-8
+8-310       BIN Punch for Extended Memory
+8-311       Card to Tape Conversion with Ziagnostics
+8-312       DECtape Emulator
+8-314       8K FORTRAN Library CR8/I Card Reader Input Routine   
+8-315       BlockDModify
+8-316       CORR (Compute Correlation Matrix)    
+8-317       EIG (Compute Eigenvalues and Eigen- vectors)     
+8-318       PART (Partitioning of Treatment Sums of Squares)     
+8-319       RAND (Computation of Randon Fractions)
+8-320       MMMS (Calculation of Minimum, Mean, Maximum and Standard Deviation)
+8-321       REGD2 (Curvilinear Regression) REG-4 (Linear Regression)
+8-322       CCMP (Correlation of Components) and CVAL (Computes Values of Principal Components)  
+8-323       CRC (Convert Peak Heights on an Auto- Analyzer Chart to PPM and Percentage)  
+8-324       TSP - Trend Surface Plotting
+8-325       SBSM - Calculation of Duplicate Sub- Samples from Prinary Data
+8-326       MLWI - Malawi Land Use Survey Analysis
+8-327       CLAN (Cluster Analysis) and GRMN (Calculate Group Means)
+8-328       NNAN (Nearest Neighbor Analysis) - OREG (Orthogonalized Regression Analysis) - OREH (Additional Orthogonal Regression Coefficients)  
+8-329a      FOCARL, Version 14
+8-330       TSS/8 ALGOL
+8-331       Roulette
+8-332       The Civil War Game
+8-333       8K PALDD Assembler for 4K Disk Monitor System
+8-334       KVEDIT
+8-335       COLPAC
+8-336       DECtape Library System Modifications
+8-338       BIN and CBL Loader
+8-339A      PST (Post Stimulus Time) and Latency Histogram for the LAB-8
+8-339B      Time Interval Histogram Program
+8-340       The Auto and Cross-Correlation Program for the LAB-8
+8-341       LISP-8
+8-342       STAP-8; Spike Train Analysis Program
+8-343       Radial Interface Including Interrupt Mask for the PDP-8 or LINC-8
+8-344       Toledo Extended Memory Binary Punch
+8-345       EDITDPAL
+8-346       Pollution Game   
+8-347       DUBAVO
+8-348       Mini Binary Punch
+8-349       Octal Debugging Technique with View
+8-350       Wilcoxon-White Two Sample Rank Test
+8-351       ComBIN Loader
+8-352       Parity Hi-Lo Loader
+8-353       Disk Monitor Patch for BLACKJACK
+8-354       Pass 3 ASR 33 Format Overlay
+8-355       PAL III.75
+8-356       Page Printer
+8-357       ISOMER - Interactive Study of Organic Molecules by Educational Reinforcement
+8-358       Card Reader Patch
+8-359       Hi-Q Game Playing Program
+8-360       ASCII to Friden (EIA)
+8-361       Game of Chance
+8-362       IOFMAG
+8-363       DATOUT: A Simple Routine for Printing Sequential Data as an Array
+8-364       Extended Memory Patch to the 3-Word Floating Point Arithmetic Interpreter
+8-365       CARD
+8-366       Modified Readable Punch 
+8-367       Digital 8D12DU Modified  
+8-368       Tri-Data CartriFile PAL III Assembler
+8-369       Tri-Data CartriFile DEC Editor
+8-370A&B    FBUILD/DISK
+8-371       Teletype Control of ND 50/50 Memory Unit (TYPED)
+8-372       ML Editor (Machine Language Editor)
+8-373       LISP Disk Array
+8-374       Binary or RIM Consolidator   
+8-375A      3 Page Floating Point Package    
+8-375B      3 Page Floating Point Package with Floating Output   
+8-376A      Field 1 Symbol Table Storage for PALD
+8-376B      PALD
+8-377       One Pass Assembler
+8-378       Map Directory Information on KV8/I   
+8-379a      Double Precision and Floating Point Interchanger
+8-380       WATSNU
+8-381       Cardreader Subroutine for Disk Editor
+8-382       Readable High Speed Punch Copier
+8-383A      Scan and Analysis Program
+8-383B      Core Display Program
+8-383C      Drawing Applications Program
+8-384       BLOK
+8-385       Mixed ASCII Formatting and Outputting Technique
+8-386       Multiple Field Loader
+8-387       Grade Point Correlation
+8-388       CALENDAR
+8-389       Mini-Monitor, A Secondary Disk Monitor for the PDP-8
+8-390       PALEDCO (PAL Assembler and Editor Combined)
+8-391a      7 or 9-Track MTA for PS-8 with TC58/TU20
+8-392       Vector-8
+8-393       Queing TC01/TU55 DECtape Routines
+8-394       BASIC
+8-395       Space War
+8-396       MTSD6/70 (Millisecond Time Sharing System)
+8-397       8K Editor
+8-398       IMAGE
+8-399       8K FORTRAN Bit Manipulation Subroutines  
+
+8-400a      Execute Slow
+8-401       Dice Game and TIC-TAC-TOE
+8-402       Resequence   
+8-403       Stereo - A 2 Channel Music Program
+8-404       Octal MEM Dump - Extended Memory 
+8-405       SOOT
+8-406       STATPAC Revisions for PDP-8/I and TSS/8
+8-407       Patch to Editor (DISK) DEC-D8-ESAD-PB
+8-408       Disk Utility Program
+8-409       Card Loader
+8-410       Pseudo-Random Number Generator, EAE Version
+8-411       Mongoose Display System 
+8-412       MRS X
+8-413       GROPE III/A and BINLOC
+8-414       LIST
+8-415       Multiple Unit DECtape Copier     
+8-416b      Bibliographical Handling
+8-417       XCORE
+8-418A&B    VEKSEL and PAPT
+8-419       Nmr-Pulse for the Lab-8/I 
+8-420       LOGSIMD8
+8-421       Chain Load
+8-422       Binary Punch - Extended Memory II
+8-423       Disk Editor with View for LAB-8 
+8-424       Morse Code
+8-425       BlockDModify for PS/8
+8-426       Prime Number Generator
+8-428A      EAE - Modification to DECUS NO. 8-143, FFTS-R
+8-428B      EAE - Modification to DECUS NO. 8-144, FFTS-C
+8-429       Intercorrelation 37 
+8-430       DECK: A Random Deck of Cards     
+8-431       8/I LAB Data System
+8-432       Triple Precision Integer Package
+8-433       Extensions to "LIBRA-FOCAL"
+8-434.1     SCAN
+8-434.2     STD 
+8-434.3     COW 
+8-434.4     TIC 
+8-434.5     TAB 
+8-434.6     HIST 
+8-434.7     TUNE
+8-435       RECOVER  
+8-436       EAE - Simulator
+8-437       Computer Dating Game
+8-438       DFD32/Sykes Swap
+8-439       MOVE     
+8-440       PIPL
+8-441       DELETE
+8-442       "The BYU Boob Tube"  
+8-443       Keyboard Test Tape for Hot metal Linecaster with TTS
+8-444       COREMAP  
+8-445       FYLHLP - P5/8 File Utility Program
+8-446       A Patch to FFTS-R for Use Without the EAE
+8-447       Roots of a Polynomial by Muller's Method     
+8-448       CORDMP - Formatted Octal Dump
+8-449A      A Magtape Handler for the PDP-8/TU2O 
+8-449B      LPTQUE - A PT08 to A. B. Dick Line DECtape; Printer Utility Program (DECsystem-l0 Format) 
+8-449C      TALK10 - A PDP-8/PDP-l0 Utility-Loader   
+8-449D      Buffered I/O Subroutines for the PDP-8   
+8-450       PS/8 Editor With Display for KV8/I (Overlay)     
+8-451       PS/8 Handler for KV/8 Vector Display  
+8-452       ANSAM (Analog Sampling)
+8-453       Rapid Alert Program (RAP)
+8-454       Radio Teletype to ASCII
+8-455       CRTPAC  
+8-456A      PIP "AH"
+8-456B      BUILD "AH"
+8-457       DTFIX
+8-458       VW - Field Independent I/O Handler for Disk and TTY
+8-459       TAYEX - Taylor Expansion Equation Solver
+8-460       TT89 - Tape Transfer PDP-8 to PDP-9
+8-461       COPY10 - PDP-lO DECtape Program for the PDP-8
+8-462       INSTIN
+8-463       Perpetual Calendar (BASIC Version)
+8-464b      MTA: TR02 Magnetic Tape Handler
+8-465       The SKED Software System
+8-466A      RL Monitor System (WCFMPG Version) P?SD08D1. lA  
+8-466B      RL Monitor Subsystems - P?SD08-1.lB  
+8-466C      Listing Utility Programs - P?S-08-l.1C   
+8-466D      RL Monitor System Utilities P?SD08D1. lD     
+8-466E      DECtape Utility Programs - P?S-08-1.1E   
+8-466F      PAL III Modified for RL Monitor  
+8-466G      POLY SNOBOL - P?S-08-l.lG
+8-466H      POLY LISP D P?SD08Dl.1H
+8-466I      FOCAL Modified for RL Monitor
+8-466U0     Sources and systems for all the above programs, on an RL Monitor System DECtape, may be ordered under this number
+8-467a      BINREAD (Revised Version)
+8-468       DIPDUB, A Dual-Independent Parameter, Double-Precision Pulse-Height Analysi
+8-469       Top Secret
+8-470       ODTD11 (high) Modified
+8-471       Verify Paper Tape (12K) 
+8-472       PS8IN, PS8OUT
+8-473       Three Utility Routines for PS/8
+8-474       EXIT PS/8
+8-475       PIPQ
+8-477       RIBIER - A Program for the PDP-8/I Enabling the Transition from the PS/8 System to the Paper Tape System
+8-479       PDP-8/E Instruction Simulators for other PDP-8s 
+8-480a      Two Subroutines for 8K FORTRAN
+8-481a      MERGE
+8-482       Patch to High ODT (DEC-08-COC2-PB)
+8-483       GRFIT, A Simple Least Squares Routine
+8-484       RESTore for the RK08
+8-485       Geometric Data Truncation for Fourier Transform Programs
+8-486       SEGAR 7: A Seven Segment Array for Alphanumeric Character Generation
+8-487       Revised Octal Memory Dump
+8-488       NEWPAGE
+8-489       SUBSET, Integer Compiler and Operating System
+8-490       Tape Alteration Program
+8-491       Indexed Floating Point Math Subroutines for PDP-8/E
+8-492       BINLOAD, BINTAPE and SEARCH
+8-493       Line to Block Conversion
+8-494       Translate Arabic Into Roman Numerals
+8-495       CORRELATION ANALYSIS
+8-496       UTR7: A 7-track Magnetic Tape Reading Utility
+8-497A      8BAL - PDP-8 Macro Language
+8-497B      8BAL Source Documentation
+8-498       Unencoded Incremental Plotter Subroutine
+8-499       High-Speed Reader Patch for Lo-Speed Macro-8
+
+8-500       DUMP8
+8-501       Galactic Coordinates
+8-502       Interrupt Duplicator for Binary Object Tapes
+8-503       MACRO-8X: 8K Extended MACRO-8 Assembler
+8-504A      ESI (Engineering and Scientific Interpreter)
+8-504B      ESIX - Extended ESI
+8-504C      ESI Demonstration Programs
+8-505       BIN - CBL Extended Memory Loader
+8-506       Load Areas
+8-507       EEPP (Editor Even Parity Punch)
+8-508a      TSUTIL - A Utility-Diagnostic Program for TSS 8
+8-509       INTERRUPT - TEST
+8-510       P8COR - Overlay for 8K PAL-D Assembler for 4K Disk Monitor System (DECUS NO. 8-333)
+8-511       FPAK-4 Interrupting Floating Point PACKAGE
+8-512a      Modified Binary Loader
+8-513       DEBUG 8
+8-514       Alpha-Numeric Display Program
+8-515       Program to Mate PAL III With Symbolic Editor
+8-516       Self Starting PS/8 Loader
+8-517       Bowling League Results, Standings and Averages Program
+8-518       PS/8 FORTRAN Alphabetical Sort
+8-519       MACRO-8 Pass 3 Output Format Patch
+8-520       PEST/WALD/PINIT: Adaptive Psychophysics Testing Package
+8-521       A Clock
+8-522       PAGEIT
+8-523       MDT - A Mini Debugging Technique     
+8-524       GRNDYE 1970 - A Program to Estimate Cardiac Output Off-Line from an Indicator Dilution Curve
+8-525       DAFFT/PAFFT/DAQUAN (EAE)
+8-526       PROCOL 10/71
+8-527       XDDT8E
+8-528       TIC-TAC-TOE: Modifications to TIC 5/8, DECUS NO. 8-173
+8-529       OSCAR: An Operating System for Computerized Animal Research
+8-530       8BALIB - 8BAL Macro Library Generator
+8-531A&B    TRIPLE - 36 Bit PDP-8/E Simulator and `TRIPLE' 8BAL Macros
+8-532       OPDDT (One Page DDT)
+8-533       "WHERE"
+8-534       DUAL BINARY LOADER
+8-535       BINARY PUNCH FOR PDP-8/E with 2 TTY's (or with high speed punch)
+8-536       Advanced Averager Improvement
+8-537       Talking Eights
+8-538       Integer IOH for FORTRAN Library
+8-539       TD8E 4K Loader
+8-540A      BRAILLE-8
+8-54GB      BPRINT
+8-541       Cassette Utility Program and PALC
+8-542       Radioactive Decay
+8-543       TS8REV - Reverse Assembler for TSS/8
+8-544       CHECK and CHANGE-D
+8-545       PIF (Program Interrupt Facility for 3 TTY's
+8-546       DETEF   - DECtape File-Handling System
+8-547       Advanced Averager Program (Rotterdam Version)
+8-548       Links to Page Routine
+8-549       Polynomial Least Squares Fit
+8-550       Modified Matrix Inversion - Real Numbers 
+8-551       COMBO
+8-552       Storage Display Device Handler
+8-553       Big Brother II
+8-554       ANOVA and DUNCAN
+8-555       MULTC Multiple Correlation Program
+8-556       CHISQ Chi Square Program
+8-557       CLUSTR Cluster Analysis Program 
+8-558       CORREL Correlation Program and PCOMP- VARMX Factor Analysis Program
+8-559       CUBIC - A Digital Program for On-Line Differentiation of Sample Analog Signals  
+8-560       SAMDi
+8-561       Revised HELP Loader for High-Speed Reader and New BIN Loader
+8-562       DISORT
+8-563       TAPE
+8-564       A Statistical System in PS/8
+8-565       RENUM   - Renumbering Program for BASIC Tapes
+8-566       PARTL
+8-567       EXPO
+8-568       CFI - Continued Fraction Inversion
+8-569       FLIT Assembler
+8-570       BIN4SV
+8-571       INPUT, OS/8 Version
+8-572       Combination Lettering and Duplicator - Coder Program
+8-573       EDITS - A PS/8 Editor for Non-storage Scope Display
+8-574       TD8E System Handler for 8K PS/8
+8-575       EAE Overlay for Four-Word Floating Point Package Multiply
+8-576       LOCAL PAL8: LPAL8.SV
+8-577a      Paper Tape Duplicator (P.D.T.)
+8-578       Chromaticity Diagram
+8-579       LISTIT
+8-580       Decimal to Floating Point Conversion
+8-582       Random Number Generator Adapted for 8K FORTRAN/SABR
+8-583       BASOVR - 8K BASIC Overlay for PDP-8/S
+8-584       PRECIS, A Program to Scan a Binary Tape
+8-586       XDIREC, OS/8-PS/8 Selective Directory Listing
+8-587       FORTRAN-D 4K Overlayings to Chain Programs
+8-588       PEEK, A User Program to Look at the TSS/8 Monitor     
+8-589a      BOOTST, Universal OS/8 (PS/8) Bootstrap
+8-590       Matrix Inversion 
+8-591       Pulmonary Resistance
+8-592       Printer Test Program
+8-593       Tri-Data Paper Tape PAL III Assembler
+8-594       FP8 - Floating Point Arithmetic Software for DEC PDP-8 Series Computers
+8-595       UPDATE, A Program to Make Corrections to a File Containing Records of Variable Length
+8-596       Multilength Routines
+8-597       N.I.H. OS/8 Package
+8-598       CRT: An OS/8 Handler for Tektronix 611 Storage Scope     
+8-599       DIBILD.; Directory Rebuilder for PS/8 or OS/8
+
+8-600c      EXPIP (Extensions PIP)
+8-601       OASIS
+8-602A&B    The PDP-8 Cookbook, Volume 1 & 2
+8-603       PATPST: Patch for DEC-LAB-8/E Post- Stimulus-Time-Histogram Program
+8-604       'GET' Command for the Disk/DECtape Monitor System
+8-605       ADUMP8
+8-606b      PIPli
+8-607       CALCUl
+8-608       FUTIL - OS/8 File Utility
+8-609       OCOMP - Octal Compare and Dump  DECtape; Includes FOCAL8-269
+8-610       INVENT-8
+8-611       SLED - Source and Listing Editor 
+8-612       ELAN - Elementary Linguistic Analysis
+8-613       Interconversion Between A/D Floating Point and D/A Formats
+8-614       Clock Calibration
+8-615       EAE Multiplication for BK FORTRAN
+8-616       Octal Character Equivalent
+8-617       V. A. PKS.-1 and V. A. PKS.-2 Real Time G. C. Data Integrator and G. C. Data Manipulator
+8-618       Two OS/8 Device Handlers for the 57A Magnetic Tape Control
+8-619       FORTRAN-Callable Scope Subroutines for the KV8/VT01 Graphic System
+8-620       The PHA-B Data Acquisition System
+8-620A      SINGS D Single Parameter, Single Precision 1024 Channel, PHA Data Acquisition
+8-620B      SINGDP - Single Parameter, Double Precision 1024 Channel, PHA Data Acquisition and Display
+8-620C      PK8L - 1024 Channel Off-Line Peak Location and Listing
+8-620D      SING8K - Single Parameter, Precision and One-Half, 4096 Channel, PHA Data Acquisition and Display
+8-620E      PK8K - 4096 Channel Off-Line Peak Location and Listing
+8-621       Gray Code Conversion Package      
+8-622       KV8/I - VTO1 Device Handler  
+8-623       PAGER
+8-624       DUMP and LOAD, TSS/8
+8-625       Floating Integer Function for use with BK FORTRAN    
+8-626       Automated Electrooculography
+8-627       TEXPAK - Program to Convert a Line of Text to Packed Octal Forma
+8-628       LISP 1.5 Interpreter for PDP-8 with OS/8 (PS/B)
+8-629       Graphing Subroutines for BK FORTRAN Program
+8-630       Pulmonary Function Laboratory Program    
+8-630A      (Spirometry Only) 
+8-630B      8K Paper Tape System
+8-630C      (For non-ROM systems request binary paper tape loader in addition to DTA)
+8-630D      BK TC08/TU56
+8-630E      (Contains binaries and sources for 4K and BK paper tape systems)
+8-631       MINT - Multiple Precision Integer Arithmetic Subroutine
+8-632       RWDF32
+8-633       MACB, BK MACRO ASSEMBLER
+8-634       MOVE 
+8-635       PAL12D
+8-636       BEST - Binary to Symbolic Traductor
+8-637       A Flexible Data Buffer Display Routine for LAB-8 Systems     
+8-638       GEOMAS   
+8-639       OS/8    DISASM   
+8-640       OS/8    EDIT PLUS    
+8-641       OS/8    FORMAT   
+8-642       AUTOCO - Autocorrelation for Poor People (Without EAE)
+8-643       LIFE
+8-644       MINMON  - TD8E DECtape Minimonitor
+8-645       Interfacing the PDP-8 to the Printec-100 Line Printer
+8-646       DECsystemD8
+8-647       FULMIX  - Complete Permutation Program 
+8-648       LOGMIN  - Logic Minimization Program 
+8-649       QPIP -  OS/8 Directory Editing Program
+8-650       AMIPED- Automated Medical Interview With Pediatric Data Files
+8-651       SOLMT (Sort Overlay Listings Using Magnetic Tape)
+8-652       Regression Analysis Package   (Test Tapes Included)
+8-653       MTAPER - BK Magtape Monitor (TR05-A Interface) and BK FORTRAN I/O
+8-654       Cabrillo Test Grader
+8-655       Patches to CINET-BASIC (DECUS NO. 8-159)
+8-656       SELFDRILL - The Sloan Selfdrill Program
+8-657A      INPUT, A Neurophysiological Data Collecting Program
+8-657B      DSKFIL, A File Structured Disk Writing Routine and Helpers
+8-657C      TR, Binary to ASCII Translator
+8-658       Extended Double Precision Interpretive Package
+8-659       VTO5         
+8-660       STAT
+8-661       LESQ,   General Non-Linear Least Squares
+8-662       UNDEFSYBLIST - Undefined Symbol List
+8-663       REPROD  - Read, Punch and Verify Product
+8-664       FREQHS - A Subroutine to Generate a Frequency Histogram from Stored Interval Measurements    
+8-665       INTVAL - A Subroutine to Measure Inter- Event Intervals  
+8-666       NORDER - A Subroutine to Generate nth Order Histograms from Inter-Event Intervals    
+8-667       LABLDP - A TSS/8 Tape Labeling Program
+8-668       RAW - A Reverse Assembler of Windsor
+8-669       BIOLSD - Antibiotic Assay Using Latin Square Design
+8-670       Basic Plotting Package for OS/8 FORTRAN IV
+8-671       Restoring Symbolprin
+8-672       XCBL and XBIN Loader
+8-673       Random Number Generators for Use With FORTRAN or SABR Programs
+8-674       External - Or RC - Clock (AXOB) Calibration
+8-675       INDUMP - Input Dump 
+8-676       MOVE DELETE 
+8-677       STAR PIP
+8-678       Routine to Expand and Modify the DEC Floating-Point Package  
+8-679       MAPPER
+8-680       WLSHTR - A Fast Walsh Transform Subroutine for Real Valued Functions
+8-681       CASE - Carleton Symbolic Editor
+8-682       SCPSYS (Scope System)
+8-683       BNLOAD, TSS/8 Binary Loader
+8-684       Injection Patcher - IJPA
+8-685       DPSQRT  - Double Precision Square Root for PDP-8         
+8-686       Bowling League Results, Standings and Averages
+8-687       GOLF
+8-688       FOOTBALL
+8-689       UFDSPY - A TSS/8 Line-Printer UFD Dump Program
+8-690       RANDU
+8-691       ACCK Timeshare Accounting System  (DECtape available from author)
+8-692       OLEVX and OLEVAX, 4-Channel Averager and Analysis System
+8-693       A Programmed Learning Course in Boolean Algebra
+8-694       Teletype Line Printer Emulator Handler for OS/8  
+8-695       Real Time Display Processor for a KV8 Graphic System and KWB Clock
+8-696       DECTYP, One-Word Signed Decimal Print
+8-697       DDTSS8, DECtape Dump for Time Shared System 8 (TSS/8 - Edusystem50)
+8-698       TEKLIB, A Series of OS/8 FORTRAN II Callable Subroutines for the Tektronix 4010
+8-699       MPS External Event Common Routine
+
+8-700       JET AMBUSH
+8-701       TEXT: Readable Punch Handler for OS/8
+8-702       COGOD8
+8-703       AMORT: Incremental Amortization Schedule
+8-704       ANOV1: Analysis of Variance, Unequal 
+8-705       ARNORM: Area Under Normal Curve
+8-706       BITSET
+8-707       CRSTAB: Cross Tabulation Program
+8-708       EMLP: Emory Linear Programming Package
+8-709       FINCA: A Computer Program for Financial Statement Analysis
+8-710       MULTS: Multiple Regression Program
+8-711       Microprocessor Cross Reference Program for OS/8
+8-712       IRSPEC: Calculation "On-Line" of Far Infrared Spectra by Fourier Transform
+8-713       FORTRAN Plotting Subroutines
+8-714       PDPLST: PDP-8 IBM 360/370 Cross Listing Program
+8-715       F4 GRAPHICS
+8-716       Exponential Functions
+8-717       F4EAE - EAE OVERLAY FOR FRTS
+8-718       NSD - Nominal Standard Dose
+8-719       OS/8 Software for a TC58 Magtape Control
+8-720       LSTDMP: Binary Tape Dump/Lister
+8-721       LISP-8K
+8-722       Mini-Copy
+8-723       Function Comp.FT 
+8-724       Computer Catalog System
+8-725       The Pipe Stress Problem on a PDP-B/F
+8-726       An OS/8 Handler for the Varian Statos 21 Line Printer
+8-727       Disassembler
+8-728       MEND
+8-729       DS340 DEMO Package 
+8-730       CORVU: A Display and Teletype Input/ Output Program
+8-731       MEMO IV
+8-732       BAVIRF - A Virtual File UDEF for OS/8 BASIC  
+8-733A      PDP-8/E RJE System (IBM 2780 Emulator)
+8-733B      Software Support Manual for PDP-8/E RJE System
+8-734       Microprocessor Language Assembler for OS/8
+8-735       DSP8: Diagnostic Support Package for the PDP-8
+8-736       Paper Tape Reader-Printer
+8-737A      Four Word Floating Point Package for MPS
+8-737B      Four Word Floating Point Functions for MPS
+8-737C      Rudimentary Calculator for MPS Four Word Floating Point Routines
+8-738       The Business Management Laboratory
+8-739       COPY.PA
+8-740       Theorem Prover for the Propositional Calculus     
+8-741       SD8SY and SD8X - Two Handlers for the TD8E Simple DECtape    
+8-742       CLOCK - A Real-Time Clock/Calendar Routine
+8-743a      FILFIX - TSS/8 File Structure Repairing and Restructuring Program
+8-744       TSTCDR - TSS/8 Card Reader Diagnostic
+8-745       LEP, Linear, Exponential and Power Function Curve Fit    
+8-746       Device Handler for Tektronix 611 Storage Scope    
+8-747       STAGE2 MACRO Processor
+8-748       SM04 - OS/8 to Disk-Monitor ASCII File Converter     
+8-749       UFAX08 - A LAB-8 (AX08) Set of User-Defined Functions for OS/8 BASIC
+8-750       Paper Tape Display
+8-751       FORTRAN IV for OS/8 FORTRAN II Users
+8-752       MIG8E2 - Monitor of Interruptions Which Are Generated by the PDP-8/E Peripherals
+8-753       OS/8 System Output Handlers
+8-754       NUMBER and REDATE - OS/8 File Utility tape
+8-755       OCTYPE - Octal Memory Dump
+8-756       ASCON - ASCII File Converter 
+8-757       OS/8 Utility Package
+8-758       Super Hardware Bootstrap Code for the TC08/TC01 on a MI8E 
+8-759       USLIBA D FORTRAN II Subroutines for Binary Data Transfer 
+8-760       FASTAD - User Oriented Data Collection on One A/DC Channel
+8-761       WDATA - Subroutine to Write Absolute Binary Data on SYS-Device
+8-762       TTYIO - I/O Routines for Teletype or Similar Terminal
+8-763       KL8TST  - KL8/E, KL8/J Diagnostic    
+8-764       LIST
+8-765       DUMPOS  D Dumps OS/8 ASCII File
+8-766       SIMBA - A PDP-8/E Oscilloscope Symbol Generator
+8-767       Critical Path Method of Scheduling       
+8-768       EDAS D  Editing and Assembling System
+8-769       SELFDR  - The Selfdrill Program, BK Version
+8-770       MOSS -  4K TD8E DECtape System
+8-771       PRGSCH  - TSS/8 Program Searcher     
+8-772       OS/8 Compatible VC8-E Handler for Mass Storage Systems   
+8-773       Graphics Package for the Tektronix 4010 Under OS/8
+8-774       Simple ASCII Editor and Tape Reproducer
+8-775       COPIER    
+8-776       BNPF Format Paper Tape Loader for MPS
+8-777       PDP8ASM, Version 3.01   
+8-778       PFCF - Polynomial Function Curve Fitting     
+8-779       TC58.PA - OS/8 Version III Device Handler for TC58 Magtape   
+8-780       SPLIT and SPLICE     
+8-781       DOCRLN - A Subroutine to Calculate Polarity- Quantized Autocorrelograms
+8-782       DEVHND - Device Handler for Storage Scope Using AXOB (LAB-8) as Controller
+8-783       EDITV - Edit-With-View on AXO8 (LAB-8) for OS/8 Editor Version III
+8-784       TSS/8 TTRACE and TSS/8 LTRACE    
+8-785       GPATCH   
+8-786       TSS/8 FORMAT     
+8-787       LISZ - An Extended ISZ Instruction for the PDP-8/L   
+8-788       Using the RAR RAL Micro-Instruction as an Auxiliary Command  
+8-789       RKCOPY
+8-790       CHRDIS - Display Alphanumeric Characters on ND-SO/SO System
+8-791       DELAY
+8-792       PROVE-8, V.03    
+8-793       RANF - A Pseudo-Random Number Generator for OS/8 FORTRAN IV  
+8-794       IFAC - A FORTRAN Program for Parameter Estimation
+8-795       RINROT - A Roll-in, Roll-out Program
+8-796       Five Word Floating Point Package for PDP-8
+8-797       LSPCF
+8-798       OS/8 to RSTS Interface   
+8-799       Dose Calculation of Irregular Fields     
+
+8-800       Heat Loss Calculation
+8-801       MORSE - Morse Code Coder and Decoder
+8-802       SSP: Scientific Subroutine Package
+8-803       FOLMAT
+8-804       MUSIC: PDP-8 Music Playing Program
+8-804.1     The Entertainer   
+8-804.2     Love Will Keep Us Together, other
+8-804.3     Minute Waltz
+8-804.4     Bach, Invention
+8-805       PTRP.PA: RTS Handler Task for High Speed Paper Tape Reader and Punch
+8-806       SAC8: Simulation of An Analogue Computer
+8-807       UTILITY Routine and Patches for the FORTRAN Compiler
+8-808       Probability Density Functions of Analogue Signals with the LAB-8 System
+8-809       FFT or IFFT of an Analogue Signal with the LAB-8 System
+8-810       PING: Ping-Pong Game on Display
+8-811       DYNOD: Dynamic Octal Debugger
+8-812       CASINO: Sykes Cassette Input/Outpu
+8-813       DIGFIL: Recursive Digital Filter
+8-814       PROCES: An Image Processing Program for the PDP-8/E
+8-815       BINPUN: OS/8 Binary Punch from Core Image File
+8-816       PLOT, KPLOT: FORTRAN Callable Plotting Subroutines for Scope and Incremental Plotter
+8-817       LABCOL I: Laboratory Control and Automation Language
+8-818       SYKBOOT
+8-819       PAL8X2
+8-820       WIPE: TSS/8 User Directory Cleaner
+8-821       SPASTIC IV
+8-822       CHEKMO  II: Chess Playing Program
+8-823       DDTG: Real Time Picture Processor Monitor Debugger
+8-824       LABL: Legible Leader Handler for OS/8
+8-825       ALPHA, CCL4OA, MARK12
+8-826       Program System to Analyze Analogue Signals with the LAB-8 System
+8-827       DDCMP
+8-828       FORTRAN-IV Routine
+8-829       Improved Mini Debugging Technique
+8-830       CASTOR, Sykes Cassette Editor
+8-831       BLKPIP: OS/8 Transfer Program for Files and Block
+8-832       IPSLAV: Slave Program for the DB8E Interprocessor Buffer Handler
+8-833       VT50 CURSOR MOVE
+8-834       LIB8X
+8-835       OSLF
+8-836       BUGRM
+8-837       QUICKPOINT-8 Part Program Compiler and Standard Post Processor
+8-838a      TSLIB2: Tektronix 4010 Graphing & Character Generation Subroutine
+8-838b      TSLIB4: Tektronix 4010 Graphing & Character Generation Subroutine
+8-838c      TK4LIB: OS/8 FORTRAN IV Callable Routines for the Tektronix 4010
+8-839       PALLUX, Sykes Cassette PAL III Assembler
+8-840       COCAS, Sykes Copy Cassette
+8-841       CHRFSB: FORTRAN IV ASCII Character Subroutine
+8-842       DIRECT - OS/8 Directory Listing Program
+8-843       SDBOOT: A Short Bootstrap for a non-OS/8 Sykes 7100 Floppy Disk System
+8-844       OS/8 FORTRAN IV Listings Without Recompiling
+8-845       VIRCOP: OS/8 System Creation and File Copy Utility Program
+8-846       SYK2PH: Two Page, 16-Bit Packing OS/8 System and Auxiliary Handlers for the Sykes 7100 and Floppy Disk
+8-847       A VC8E 'TV' HANDLER FOR A STORAGE SCOPE
+8-848       LPTSPL-A Lineprinter Spooler for the OS/8 "PRINT" CUSP
+8-849       MAGlO PDP8/e File Based MAGtape Utility
+8-850       USR.RA User Service Routine (USR) for FORTRAN IV
+8-851       GOB-General On-Line-Operating-System For the PDP8 Series Computer
+8-852       A Package of FORTRAN II Subroutine
+8-853       SSP: Scientific Subroutine Package
+8-854       Part 1. LOG - Log and Disk Partition Assignment Program Part 2. KBLD - Build Program to Convert OS/8 to use a KV8 Display
+8-859       INFPAK
+8-861       BASIC User-defined functions and a multi-channel data acqusisition and control system for mass spectrometers
+8-865       SNOBOL-8.2 Demonstration Programs
+8-869       OS/8 Magtape Handler
+8-870       Interupt Bus Testing Program
+8-871       U: A program to type out CCL Recollectioms (also as 12-210)
+8-873       RSMON: RSTS terminal monitor on a PDP-8
+8-874       Serial I/O handler for interprocessor communications
+8-876       OS/8 System device handler for the Sykes 7520 Floppy Disk
+8-878       GAME: VT-52 or VT-78 Pattern Game
+8-879       MTFOTP: Mag-Tape-File-Oriented-Transfer-Program and TM8EZ
+8-881       COS 310 Compatible Floppy Disk Handler for OS/8
+8-884       CHISQR
+8-886       ADC: A general purpose Analog to Digital Conversion System
+8-887       FUTCCL: CCL Modififcation
+8-888       TKPLOT: Graphic Display on a Tektronix 4010 Terminal
+8-889       ADVENTURE
+8-890       LPTSPL: OS/8 "PRINT" Utility Package
+8-891       Big Floppy Handlers
+8-893       UTIL10: DECsystem-10 Communication and Utility Package
+8-894       Improved OS/8 LQP Handler
+8-895       NUMBER: FORTRAN IV Plotter Routine
+8-896       RESEQ.PA
+8-897       EDUSYSTEM-23 Basic Patch - ODT patch to EDU25
+8-898       DR8E Overlay for RT BASIC
+8-900       SABX: SABR Assembler Modification
+8-901       AXIS
+8-902       INFSTAT
+8-903       RF08 Simulation on RK8E
+8-904       Line Printer Patch to use with FOCAL
+8-905       DEC-10 System Controller
+8-906       Background Plotting for FORTRAN IV
+8-907       T.I. Silent 700 ASR Terminal/Cassette Device Handler
+8-908       TELCOM: Telecommunications/Teleprocessing Program
+8-909       Spearman Rank Correlation Cofficient with Ties
+8-910       VT520LA36 Device Handler for OS/8
+8-911       TD8E Handler for RTS-8
+8-912       RKREAD/RKDUP: RK8E Utilites
+8-913       TECO-8
+8-914       "UFCLK" BASIC User Function Package
+
