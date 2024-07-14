@@ -7,4 +7,4 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 - https://en.wikipedia.org/wiki/DECUS
 - http://www.decus.de/
 - https://www.ibiblio.org/pub/academic/computer-science/history/pdp-11/decus/index.html
-
+- https://www.bitsavers.org/pdf/dec/decus/
