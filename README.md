@@ -10,6 +10,9 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 - https://www.bitsavers.org/pdf/dec/decus/
 - https://so-much-stuff.com/pdp8/software/decus.php
 
+### PDP-7
+- https://en.wikipedia.org/wiki/PDP-7
+
 ### PDP-8
 - https://www.pdp8online.com/query_docs/query_all_files.html
 
