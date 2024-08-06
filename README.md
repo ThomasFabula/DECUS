@@ -41,4 +41,6 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 ### PDP-14
 - https://en.wikipedia.org/wiki/PDP-14
 
+### PDP-16
+- https://en.wikipedia.org/wiki/PDP-16
 
