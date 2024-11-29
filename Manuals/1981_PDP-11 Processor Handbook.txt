@@ -1,4 +1,15 @@
-PDP-11 Processor Handbook 1981
+DEC PDP-11 Processor Handbook 1981
 
 https://archive.org/details/bitsavers_decpdp11haorHandbook1981_37639914/page/n6/mode/1up?
 
+Publication date 1981
+Collection bitsavers_dec; bitsavers; additional_collections
+Language English
+Item Size 402.8M
+Addeddate 2019-07-27 04:01:25
+Coverleaf 0
+Identifier bitsavers_decpdp11haorHandbook1981_37639914
+Identifier-ark ark:/13960/t0007xn7h
+Ocr ABBYY FineReader 11.0 (Extended OCR)
+Ppi 600
+Scanner Internet Archive Python library 1.7.6
