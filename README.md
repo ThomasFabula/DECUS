@@ -24,6 +24,7 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 
 ### PDP-7
 - https://en.wikipedia.org/wiki/PDP-7
+- https://museucapixaba.com.br/hoje/computador-dec-pdp-7-de-1964/
 
 ### PDP-8
 - https://www.pdp8online.com/query_docs/query_all_files.html
