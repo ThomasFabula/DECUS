@@ -13,6 +13,13 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 ### PDP-1
 - https://en.wikipedia.org/wiki/PDP-1
 
+### PDP-2
+- A number reserved for an unbuilt, undesigned 24-bit design.
+- https://en.wikipedia.org/wiki/Programmed_Data_Processor
+  
+### PDP-3
+- https://en.wikipedia.org/wiki/Programmed_Data_Processor
+  
 ### PDP-4
 - https://en.wikipedia.org/wiki/PDP-4
 
@@ -41,6 +48,9 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 
 ### PDP-12
 - https://en.wikipedia.org/wiki/PDP-12
+
+### PDP-13
+- Designation was not used.
 
 ### PDP-14
 - https://en.wikipedia.org/wiki/PDP-14
