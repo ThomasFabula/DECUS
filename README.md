@@ -39,6 +39,9 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 - https://gunkies.org/wiki/PDP-11
 - https://en.wikipedia.org/wiki/PDP-11
 
+### PDP-12
+- https://en.wikipedia.org/wiki/PDP-12
+
 ### PDP-14
 - https://en.wikipedia.org/wiki/PDP-14
 
