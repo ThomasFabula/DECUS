@@ -5,6 +5,9 @@ Digital Equipment Computer Users' Society (#DECUS) was an independent computer u
 - https://en.wikipedia.org/wiki/DECUS
 - http://www.decus.de/
 
+## DEC
+- https://de.wikipedia.org/wiki/Programmed_Data_Processor
+
 ## Further information
 - https://www.ibiblio.org/pub/academic/computer-science/history/pdp-11/decus/index.html
 - https://www.bitsavers.org/pdf/dec/decus/
