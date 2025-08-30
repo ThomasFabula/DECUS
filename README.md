@@ -5,8 +5,13 @@ Digital Equipment Computer Users' Society (#DECUS) was an independent computer u
 - https://en.wikipedia.org/wiki/DECUS
 - http://www.decus.de/
 
-## DEC
+## DEC & operating systems
 - https://de.wikipedia.org/wiki/Programmed_Data_Processor
+- https://de.wikipedia.org/wiki/Virtual_Address_eXtension
+- https://de.wikipedia.org/wiki/OpenVMS
+- https://de.wikipedia.org/wiki/Unix
+- https://de.wikipedia.org/wiki/Ultrix
+- https://de.wikipedia.org/wiki/RSX-11
 
 ## Further information
 - https://www.ibiblio.org/pub/academic/computer-science/history/pdp-11/decus/index.html
