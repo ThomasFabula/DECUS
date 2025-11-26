@@ -21,6 +21,9 @@ Digital Equipment Computer Users' Society (#DECUS) was an independent computer u
 - https://highgate.comm.sfu.ca/pdp8/
 - https://vmssoftware.com/
 
+## SOURCE
+http://bitsavers.informatik.uni-stuttgart.de/bits/DEC/pdp8/decus_pdp8_index.txt?fbclid=IwAR2rhoIhn6FbUgLUNxX1noeNUz6mvaIEOhtW7-Q8yEUYuY1__Wop4u7--E4
+
 ### PDP-1
 - https://en.wikipedia.org/wiki/PDP-1
 
