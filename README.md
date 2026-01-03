@@ -50,6 +50,7 @@ http://bitsavers.informatik.uni-stuttgart.de/bits/DEC/pdp8/decus_pdp8_index.txt?
 
 ### PDP-8
 - https://www.pdp8online.com/query_docs/query_all_files.html
+- https://www.rs-online.com/designspark/my-raspberry-pi-thinks-its-a-pdp-8
 
 ### PDP-9
 - https://en.wikipedia.org/wiki/PDP-9
