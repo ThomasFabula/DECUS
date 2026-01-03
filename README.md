@@ -26,6 +26,7 @@ http://bitsavers.informatik.uni-stuttgart.de/bits/DEC/pdp8/decus_pdp8_index.txt?
 
 ### PDP-1
 - https://en.wikipedia.org/wiki/PDP-1
+- https://www.bitsavers.org/pdf/dec/pdp1/F15D_PDP1_Handbook_Oct63.pdf
 
 ### PDP-2
 - A number reserved for an unbuilt, undesigned 24-bit design.
