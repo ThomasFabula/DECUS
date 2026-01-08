@@ -12,6 +12,7 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 - https://de.wikipedia.org/wiki/Unix
 - https://de.wikipedia.org/wiki/Ultrix
 - https://de.wikipedia.org/wiki/RSX-11
+- https://www.cs.auckland.ac.nz/references/unix/digital/APS3EETE/TITLE.HTM
 
 ## Further information
 - https://www.ibiblio.org/pub/academic/computer-science/history/pdp-11/decus/index.html
