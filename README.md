@@ -21,6 +21,7 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 - https://homepage.cs.uiowa.edu/~dwjones/pdp8/
 - https://highgate.comm.sfu.ca/pdp8/
 - https://vmssoftware.com/
+- https://www.computerhistory.org/pdp-1/decus/
 
 ## Source listings
 http://bitsavers.informatik.uni-stuttgart.de/bits/DEC/pdp8/decus_pdp8_index.txt?fbclid=IwAR2rhoIhn6FbUgLUNxX1noeNUz6mvaIEOhtW7-Q8yEUYuY1__Wop4u7--E4
