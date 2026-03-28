@@ -25,11 +25,12 @@ Digital Equipment Computer Users' Society (DECUS) was an independent computer us
 - https://archive.org/details/bitsavers_decdecuspdv1975_3152600
 - https://archive.org/details/bitsavers_decdecusfoLsting_4480597/page/n5/mode/2up
 
-## YouTube
+## YouTube videos
 - https://www.youtube.com/watch?v=BAiF-grf1Tk
 - https://www.youtube.com/watch?v=Z218gWDDorY
 - https://www.youtube.com/watch?v=bQUeMyAMQwo
 - https://www.youtube.com/watch?v=ywdSmEXIFX8
+- https://www.youtube.com/watch?v=Jof6nopTA-s
 
 ## Source listings
 http://bitsavers.informatik.uni-stuttgart.de/bits/DEC/pdp8/decus_pdp8_index.txt?fbclid=IwAR2rhoIhn6FbUgLUNxX1noeNUz6mvaIEOhtW7-Q8yEUYuY1__Wop4u7--E4
